@@ -46,7 +46,7 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 # 📫 Contacto
 
-[LinkedIn](https://linkedin.com/in/stiven-atehortua-ochoa-a17073379)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stiven%20Atehortua-blue?logo=linkedin)](https://www.linkedin.com/in/stiven-atehortua-ochoa-a17073379)
 
 ---
 > *“Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios...”*  
