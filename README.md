@@ -1,6 +1,7 @@
 # Hola, soy Stiven 👋
 
 Estudiante de Desarrollo de Software en el **ITM (Medellín, Colombia)**.  
+
 Construyo productos reales mientras aprendo, moviéndome entre backend y frontend con especial interés en Python y herramientas con impacto social.
 
 ---
