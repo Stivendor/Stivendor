@@ -37,9 +37,9 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 ## 🌍 Sobre mí
 
-- 📍 Medellín, Colombia
-- 🐪 Creo en crear tecnología con impacto social
-- 🙏 Mi fe en Jesús influye en la forma en la que construyo y sirvo
+-📍 Medellín, Colombia  
+-🐪 Me apasiona construir tecnología con propósito  
+-🙏 Mi fe en Jesús influye en la forma en la que construyo y sirvo
 
 ---
 
