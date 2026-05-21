@@ -6,7 +6,7 @@ Construyo productos reales mientras aprendo, moviéndome entre backend y fronten
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
 ### 🎵 [Proclama](https://proclama.lat)
 PWA para gestión de alabanza en iglesias.
@@ -49,8 +49,5 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 [LinkedIn](https://linkedin.com/in/stiven-atehortua-ochoa-a17073379)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stivendor)](https://git.io/streak-stats)
-
 > *“Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios...”*  
 > **Santiago 1:5**
