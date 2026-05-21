@@ -8,7 +8,7 @@ Construyo productos reales mientras aprendo, moviéndome entre backend y fronten
 
 ## Proyectos
 
-### 🎵 [Proclama](https://proclama.lat)
+## 🎵 [Proclama](https://proclama.lat)
 PWA para gestión de alabanza en iglesias.
 
 `React` `TypeScript` `Vite` `Supabase` `Dexie` `Zustand`
@@ -19,7 +19,7 @@ PWA para gestión de alabanza en iglesias.
 
 ---
 
-### 🤖 [CamelloBot / Nexo-Comuna](https://nexo-comuna-territorio-inn-c1-web.vercel.app/)
+## 🤖 [CamelloBot / Nexo-Comuna](https://nexo-comuna-territorio-inn-c1-web.vercel.app/)
 Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs profesionales.
 
 `Python` `Flask` `Supabase` `React` `Groq API`
