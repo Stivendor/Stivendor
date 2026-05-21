@@ -6,7 +6,7 @@ Construyo productos reales mientras aprendo, moviéndome entre backend y fronten
 
 ---
 
-## Proyectos
+# Proyectos
 
 ## 🎵 [Proclama](https://proclama.lat)
 PWA para gestión de alabanza en iglesias.
@@ -29,14 +29,14 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 ---
 
-## 🛠️ Stack
+# 🛠️ Stack
 
 `Python` `Flask` `React` `TypeScript` `PostgreSQL` `Supabase`  
 `Vite` `Zustand` `Dexie` `Vercel` `Render`
 
 ---
 
-## 🌍 Sobre mí
+# 🌍 Sobre mí
 
 - 📍 Medellín, Colombia  
 - 🐪 Me apasiona construir tecnología con propósito  
@@ -44,7 +44,7 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
 [LinkedIn](https://linkedin.com/in/stiven-atehortua-ochoa-a17073379)
 
