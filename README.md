@@ -50,5 +50,7 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stivendor)](https://git.io/streak-stats)
+
 > *“Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios...”*  
 > **Santiago 1:5**
