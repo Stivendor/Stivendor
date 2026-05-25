@@ -16,7 +16,7 @@ PWA para gestión de alabanza en iglesias.
 - Proyección de canciones y versículos en tiempo real
 - Funciona en red local, incluso sin internet
 - Deploy en Vercel
-🚧 EN CONSTRUCCIÓN
+- 🚧 EN CONSTRUCCIÓN
 ---
 
 ## 🤖 [CamelloBot / Nexo-Comuna](https://nexo-comuna-territorio-inn-c1-web.vercel.app/) 
@@ -26,7 +26,7 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 - Participante en **Territorio INN 2026**
 - Arquitectura separada: bot · landing · dashboard
-🚧 EN CONSTRUCCIÓN
+- 🚧 EN CONSTRUCCIÓN
 ---
 
 # 🛠️ Stack
