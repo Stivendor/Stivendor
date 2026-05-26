@@ -1,8 +1,8 @@
 # Hola, soy Stiven 👋
 
-Estudiante de Desarrollo de Software en el **ITM (Medellín, Colombia)**.  
+Estudiante de Desarrollo de Software en el ITM de Medellín, Colombia. Me apasiona construir productos reales mientras aprendo, llevando las ideas desde el concepto hasta una solución funcional. Me desenvuelvo tanto en backend como en frontend, explorando tecnologías que me permitan crear experiencias útiles, intuitivas y con propósito.
 
-Construyo productos reales mientras aprendo, moviéndome entre backend y frontend con especial interés en Python y herramientas con impacto social.
+Actualmente trabajo en proyectos enfocados en comunidades e iglesias, explorando tecnologías como React, TypeScript, Supabase y automatización con bots.
 
 ---
 
@@ -31,9 +31,11 @@ Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs 
 
 # 🛠️ Stack
 
-`Python` `Flask` `React` `TypeScript` `PostgreSQL` `Supabase`  
-`Vite` `Zustand` `Dexie` `Vercel` `Render`
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,supabase,vercel,sqlite,react,html,css,git,github,cloudflare)](https://skillicons.dev)
 
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=Stivendor&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Stivendor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 # 🌍 Sobre mí
