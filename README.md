@@ -19,7 +19,7 @@ PWA para gestión de alabanza en iglesias.
 - 🚧 EN CONSTRUCCIÓN
 ---
 
-## 🤖 [CamelloBot / Nexo-Comuna](https://nexo-comuna-territorio-inn-c1-web.vercel.app/) 
+## 🤖 [CamelloBot / Nexo-Comuna](https://nexo-comuna-landing.vercel.app/)
 Bot de Telegram para ayudar a personas de comunidades vulnerables a generar CVs profesionales.
 
 `Python` `Flask` `Supabase` `React` `Groq API`
